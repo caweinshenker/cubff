@@ -1,0 +1,5 @@
+services:
+  selfrep:
+    build: .
+    volumes:
+      - .:/cubff
